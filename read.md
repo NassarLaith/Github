@@ -1,4 +1,4 @@
-git config --global user.name "NassarLaith"
-git config --global user.email Nassarlaith.9@gmail.com
+git config --global user.name 
+git config --global user.email 
 
 git config --global --list
